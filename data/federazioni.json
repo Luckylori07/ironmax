@@ -1,0 +1,58 @@
+{
+ "federazioni": [
+  {
+   "nome": "FITRI - Federazione Italiana Triathlon",
+   "slug": "fitri",
+   "logo": {
+    "src": "assets/img/federazioni/fitri.webp",
+    "w": 273,
+    "h": 150
+   }
+  },
+  {
+   "nome": "IRONMAN",
+   "slug": "ironman",
+   "logo": {
+    "src": "assets/img/federazioni/ironman.webp",
+    "w": 460,
+    "h": 345
+   }
+  },
+  {
+   "nome": "FIDAL - Federazione Italiana di Atletica Leggera",
+   "slug": "fidal",
+   "logo": {
+    "src": "assets/img/federazioni/fidal.webp",
+    "w": 300,
+    "h": 168
+   }
+  },
+  {
+   "nome": "FIN - Federazione Italiana Nuoto",
+   "slug": "fin",
+   "logo": {
+    "src": "assets/img/federazioni/fin.webp",
+    "w": 252,
+    "h": 108
+   }
+  },
+  {
+   "nome": "FCI - Federazione Ciclistica Italiana",
+   "slug": "fci",
+   "logo": {
+    "src": "assets/img/federazioni/fci.webp",
+    "w": 240,
+    "h": 104
+   }
+  },
+  {
+   "nome": "UDACE - CSAIN",
+   "slug": "udace",
+   "logo": {
+    "src": "assets/img/federazioni/udace.webp",
+    "w": 493,
+    "h": 339
+   }
+  }
+ ]
+}

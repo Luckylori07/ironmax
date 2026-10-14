@@ -1,0 +1,52 @@
+{
+ "foto": [
+  {
+   "file": "assets/img/negozio/interno-negozio-reparto-ciclismo.webp",
+   "w": 899,
+   "h": 602,
+   "alt": "Interno del negozio Ironmax Sport con abbigliamento tecnico e scarpe a parete"
+  },
+  {
+   "file": "assets/img/negozio/interno-negozio-cassa-e-nuoto.webp",
+   "w": 899,
+   "h": 602,
+   "alt": "La cassa e il reparto nuoto del negozio Ironmax Sport"
+  },
+  {
+   "file": "assets/img/negozio/interno-negozio-accessori-running.webp",
+   "w": 899,
+   "h": 602,
+   "alt": "Espositori di calze, accessori e abbigliamento running nel negozio"
+  },
+  {
+   "file": "assets/img/negozio/interno-negozio-banco-mizuno.webp",
+   "w": 899,
+   "h": 602,
+   "alt": "Il banco del negozio con abbigliamento e scarpe, vista dall'ingresso"
+  },
+  {
+   "file": "assets/img/negozio/interno-negozio-espositori.webp",
+   "w": 899,
+   "h": 602,
+   "alt": "Espositori centrali con abbigliamento tecnico e mute da nuoto"
+  },
+  {
+   "file": "assets/img/negozio/interno-negozio-scarpe-running.webp",
+   "w": 899,
+   "h": 602,
+   "alt": "Parete di scarpe running e abbigliamento nel negozio"
+  },
+  {
+   "file": "assets/img/negozio/interno-negozio-mute-triathlon.webp",
+   "w": 899,
+   "h": 602,
+   "alt": "Mute e abbigliamento tecnico per triathlon in negozio"
+  },
+  {
+   "file": "assets/img/negozio/facciata-negozio-via-piave.webp",
+   "w": 674,
+   "h": 899,
+   "alt": "La facciata del negozio Ironmax Sport in Via Piave 94 ad Azzate"
+  }
+ ]
+}

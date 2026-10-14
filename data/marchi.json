@@ -1,0 +1,545 @@
+{
+ "nota": "Marchi dalla pagina \"I nostri marchi\" del sito originale, più BV Sport e CorSport dalle schede prodotto.",
+ "marchi": [
+  {
+   "nome": "2XU",
+   "slug": "2xu",
+   "logo": {
+    "src": "assets/img/marchi/2xu.webp",
+    "w": 172,
+    "h": 40
+   },
+   "inCatalogo": 7
+  },
+  {
+   "nome": "Black Diamond",
+   "slug": "black-diamond",
+   "logo": {
+    "src": "assets/img/marchi/black-diamond.webp",
+    "w": 225,
+    "h": 225
+   },
+   "inCatalogo": 7
+  },
+  {
+   "nome": "Brooks",
+   "slug": "brooks",
+   "logo": {
+    "src": "assets/img/marchi/brooks.webp",
+    "w": 150,
+    "h": 113
+   },
+   "inCatalogo": 9
+  },
+  {
+   "nome": "BV Sport",
+   "slug": "bv-sport",
+   "logo": {
+    "src": "assets/img/marchi/bv-sport.webp",
+    "w": 324,
+    "h": 155
+   },
+   "inCatalogo": 1
+  },
+  {
+   "nome": "Castelli",
+   "slug": "castelli",
+   "logo": {
+    "src": "assets/img/marchi/castelli.webp",
+    "w": 459,
+    "h": 333
+   },
+   "inCatalogo": 28
+  },
+  {
+   "nome": "CorSport",
+   "slug": "corsport",
+   "logo": {
+    "src": "assets/img/marchi/corsport.webp",
+    "w": 327,
+    "h": 75
+   },
+   "inCatalogo": 2
+  },
+  {
+   "nome": "DMT",
+   "slug": "dmt",
+   "logo": {
+    "src": "assets/img/marchi/dmt.webp",
+    "w": 121,
+    "h": 45
+   },
+   "inCatalogo": 8
+  },
+  {
+   "nome": "Fi'zi:k",
+   "slug": "fizik",
+   "logo": {
+    "src": "assets/img/marchi/fizik.webp",
+    "w": 225,
+    "h": 86
+   },
+   "inCatalogo": 3
+  },
+  {
+   "nome": "Garmin",
+   "slug": "garmin",
+   "logo": {
+    "src": "assets/img/marchi/garmin.webp",
+    "w": 250,
+    "h": 49
+   },
+   "inCatalogo": 13
+  },
+  {
+   "nome": "HOKA",
+   "slug": "hoka",
+   "logo": {
+    "src": "assets/img/marchi/hoka.webp",
+    "w": 225,
+    "h": 225
+   },
+   "inCatalogo": 9
+  },
+  {
+   "nome": "IRONMAN",
+   "slug": "ironman",
+   "logo": {
+    "src": "assets/img/marchi/ironman.webp",
+    "w": 110,
+    "h": 32
+   },
+   "inCatalogo": 9
+  },
+  {
+   "nome": "Joma",
+   "slug": "joma",
+   "logo": {
+    "src": "assets/img/marchi/joma.webp",
+    "w": 454,
+    "h": 97
+   },
+   "inCatalogo": 20
+  },
+  {
+   "nome": "LAS",
+   "slug": "las",
+   "logo": {
+    "src": "assets/img/marchi/las.webp",
+    "w": 398,
+    "h": 288
+   },
+   "inCatalogo": 7
+  },
+  {
+   "nome": "Lock Laces",
+   "slug": "lock-laces",
+   "logo": {
+    "src": "assets/img/marchi/lock-laces.webp",
+    "w": 225,
+    "h": 225
+   },
+   "inCatalogo": 1
+  },
+  {
+   "nome": "Mizuno",
+   "slug": "mizuno",
+   "logo": {
+    "src": "assets/img/marchi/mizuno.webp",
+    "w": 93,
+    "h": 59
+   },
+   "inCatalogo": 13
+  },
+  {
+   "nome": "Moving Comfort",
+   "slug": "moving-comfort",
+   "logo": {
+    "src": "assets/img/marchi/moving-comfort.webp",
+    "w": 281,
+    "h": 49
+   },
+   "inCatalogo": 8
+  },
+  {
+   "nome": "Newton",
+   "slug": "newton",
+   "logo": {
+    "src": "assets/img/marchi/newton.webp",
+    "w": 225,
+    "h": 153
+   },
+   "inCatalogo": 2
+  },
+  {
+   "nome": "NOENE",
+   "slug": "noene",
+   "logo": {
+    "src": "assets/img/marchi/noene.webp",
+    "w": 200,
+    "h": 140
+   },
+   "inCatalogo": 4
+  },
+  {
+   "nome": "Oxyburn",
+   "slug": "oxyburn",
+   "logo": {
+    "src": "assets/img/marchi/oxyburn.webp",
+    "w": 225,
+    "h": 225
+   },
+   "inCatalogo": 14
+  },
+  {
+   "nome": "PowerBar",
+   "slug": "powerbar",
+   "logo": {
+    "src": "assets/img/marchi/powerbar.webp",
+    "w": 352,
+    "h": 74
+   },
+   "inCatalogo": 11
+  },
+  {
+   "nome": "PYRO Platforms",
+   "slug": "pyro-platforms",
+   "logo": {
+    "src": "assets/img/marchi/pyro-platforms.webp",
+    "w": 475,
+    "h": 75
+   },
+   "inCatalogo": 1
+  },
+  {
+   "nome": "Salice",
+   "slug": "salice",
+   "logo": {
+    "src": "assets/img/marchi/salice.webp",
+    "w": 120,
+    "h": 36
+   },
+   "inCatalogo": 10
+  },
+  {
+   "nome": "Schwalbe",
+   "slug": "schwalbe",
+   "logo": {
+    "src": "assets/img/marchi/schwalbe.webp",
+    "w": 225,
+    "h": 80
+   },
+   "inCatalogo": 16
+  },
+  {
+   "nome": "Suunto",
+   "slug": "suunto",
+   "logo": {
+    "src": "assets/img/marchi/suunto.webp",
+    "w": 110,
+    "h": 39
+   },
+   "inCatalogo": 10
+  },
+  {
+   "nome": "Ultimate Direction",
+   "slug": "ultimate-direction",
+   "logo": {
+    "src": "assets/img/marchi/ultimate-direction.webp",
+    "w": 225,
+    "h": 225
+   },
+   "inCatalogo": 8
+  },
+  {
+   "nome": "Under Armour",
+   "slug": "under-armour",
+   "logo": {
+    "src": "assets/img/marchi/under-armour.webp",
+    "w": 580,
+    "h": 137
+   },
+   "inCatalogo": 11
+  },
+  {
+   "nome": "Zoggs",
+   "slug": "zoggs",
+   "logo": {
+    "src": "assets/img/marchi/zoggs.webp",
+    "w": 99,
+    "h": 43
+   },
+   "inCatalogo": 20
+  },
+  {
+   "nome": "Zoot",
+   "slug": "zoot",
+   "logo": {
+    "src": "assets/img/marchi/zoot.webp",
+    "w": 1024,
+    "h": 245
+   },
+   "inCatalogo": 5
+  },
+  {
+   "nome": "AiM",
+   "slug": "aim",
+   "logo": {
+    "src": "assets/img/marchi/aim.webp",
+    "w": 115,
+    "h": 52
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "ASICS",
+   "slug": "asics",
+   "logo": {
+    "src": "assets/img/marchi/asics.webp",
+    "w": 225,
+    "h": 168
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "blueseventy",
+   "slug": "blueseventy",
+   "logo": {
+    "src": "assets/img/marchi/blueseventy.webp",
+    "w": 95,
+    "h": 45
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Compression Zone",
+   "slug": "compression-zone",
+   "logo": {
+    "src": "assets/img/marchi/compression-zone.webp",
+    "w": 241,
+    "h": 209
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "D.Fenstec",
+   "slug": "d-fenstec",
+   "logo": {
+    "src": "assets/img/marchi/d-fenstec.webp",
+    "w": 150,
+    "h": 75
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Digi Sport Instruments",
+   "slug": "digi-sport-instruments",
+   "logo": {
+    "src": "assets/img/marchi/digi-sport-instruments.webp",
+    "w": 60,
+    "h": 53
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Dry Sports",
+   "slug": "dry-sports",
+   "logo": {
+    "src": "assets/img/marchi/dry-sports.webp",
+    "w": 554,
+    "h": 263
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Fuel Belt",
+   "slug": "fuel-belt",
+   "logo": {
+    "src": "assets/img/marchi/fuel-belt.webp",
+    "w": 130,
+    "h": 52
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Garneau",
+   "slug": "garneau",
+   "logo": {
+    "src": "assets/img/marchi/garneau.webp",
+    "w": 225,
+    "h": 129
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Gist",
+   "slug": "gist",
+   "logo": {
+    "src": "assets/img/marchi/gist.webp",
+    "w": 208,
+    "h": 83
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Hibros Sport",
+   "slug": "hibros-sport",
+   "logo": {
+    "src": "assets/img/marchi/hibros-sport.webp",
+    "w": 120,
+    "h": 90
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "IRONMAN Active Wear",
+   "slug": "ironman-active-wear",
+   "logo": {
+    "src": "assets/img/marchi/ironman-active-wear.webp",
+    "w": 107,
+    "h": 32
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Jaked",
+   "slug": "jaked",
+   "logo": {
+    "src": "assets/img/marchi/jaked.webp",
+    "w": 225,
+    "h": 140
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Orca",
+   "slug": "orca",
+   "logo": {
+    "src": "assets/img/marchi/orca.webp",
+    "w": 140,
+    "h": 25
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Pearl Izumi",
+   "slug": "pearl-izumi",
+   "logo": {
+    "src": "assets/img/marchi/pearl-izumi.webp",
+    "w": 285,
+    "h": 96
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Profile Design",
+   "slug": "profile-design",
+   "logo": {
+    "src": "assets/img/marchi/profile-design.webp",
+    "w": 225,
+    "h": 79
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "QM Sports Care",
+   "slug": "qm-sports-care",
+   "logo": {
+    "src": "assets/img/marchi/qm-sports-care.webp",
+    "w": 186,
+    "h": 124
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Redlevel",
+   "slug": "redlevel",
+   "logo": {
+    "src": "assets/img/marchi/redlevel.webp",
+    "w": 297,
+    "h": 111
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Shimano",
+   "slug": "shimano",
+   "logo": {
+    "src": "assets/img/marchi/shimano.webp",
+    "w": 225,
+    "h": 150
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Sidi",
+   "slug": "sidi",
+   "logo": {
+    "src": "assets/img/marchi/sidi.webp",
+    "w": 336,
+    "h": 65
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Skins",
+   "slug": "skins",
+   "logo": {
+    "src": "assets/img/marchi/skins.webp",
+    "w": 225,
+    "h": 168
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "SockGuy",
+   "slug": "sockguy",
+   "logo": {
+    "src": "assets/img/marchi/sockguy.webp",
+    "w": 170,
+    "h": 73
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Spaziale Splendy",
+   "slug": "spaziale-splendy",
+   "logo": {
+    "src": "assets/img/marchi/spaziale-splendy.webp",
+    "w": 225,
+    "h": 225
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Sportful",
+   "slug": "sportful",
+   "logo": {
+    "src": "assets/img/marchi/sportful.webp",
+    "w": 310,
+    "h": 50
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Ultimate Performance",
+   "slug": "ultimate-performance",
+   "logo": {
+    "src": "assets/img/marchi/ultimate-performance.webp",
+    "w": 179,
+    "h": 180
+   },
+   "inCatalogo": 0
+  },
+  {
+   "nome": "Wowow",
+   "slug": "wowow",
+   "logo": {
+    "src": "assets/img/marchi/wowow.webp",
+    "w": 225,
+    "h": 67
+   },
+   "inCatalogo": 0
+  }
+ ]
+}

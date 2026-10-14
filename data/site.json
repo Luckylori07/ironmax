@@ -1,0 +1,11 @@
+{
+  "demo": true,
+  "siteUrl": "https://www.ironmax.it",
+  "nome": "Ironmax Sport",
+  "indirizzo": { "via": "Via Piave 94", "cap": "21022", "citta": "Azzate", "provincia": "VA" },
+  "telefono": "0332 458 014",
+  "telefonoIntl": "+390332458014",
+  "email": null,
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ironmax+Sport+Via+Piave+94+21022+Azzate+VA",
+  "tramontisUrl": "https://tramontis.netlify.app/"
+}
